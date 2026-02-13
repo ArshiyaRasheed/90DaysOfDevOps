@@ -2,15 +2,15 @@
 
 -----------------------------------------------------------------
 
-# Process commands:
+## Process commands:
 
-# top : Provides a real-time, dynamic view of running processes.
+### top : Provides a real-time, dynamic view of running processes.
 
 output:
 
 <img width="468" height="144" alt="top" src="https://github.com/user-attachments/assets/2bb91bba-a309-455a-a896-c70da846efe3" />
 
-# ps aux : Displays a static snapshot of all running processes in the system
+### ps aux : Displays a static snapshot of all running processes in the system
 
 output:
 
