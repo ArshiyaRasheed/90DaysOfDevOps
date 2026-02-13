@@ -54,15 +54,15 @@ output:
 
 ### Scenario ssh not working
 
-# 1.Check if service is running using systemctl status ssh
+#### 1.Check if service is running using systemctl status ssh
 
 <img width="468" height="137" alt="service status1" src="https://github.com/user-attachments/assets/44542416-10d4-449a-9d71-a3d5bb19559d" />
 
-# 2.Service is inactive start the service using systemctl start ssh now the status shows it is active
+#### 2.Service is inactive start the service using systemctl start ssh now the status shows it is active
 
 <img width="468" height="155" alt="active service" src="https://github.com/user-attachments/assets/fa417c09-7e90-4afd-91c5-ecc5f33566ff" />
 
-# 3.Now to check what was the cause use log commands
+#### 3.Now to check what was the cause use log commands
 Journalctl -u ssh -n 20
 
 <img width="468" height="144" alt="check logs" src="https://github.com/user-attachments/assets/21aa220c-6472-4526-9053-31f13c86708f" />
