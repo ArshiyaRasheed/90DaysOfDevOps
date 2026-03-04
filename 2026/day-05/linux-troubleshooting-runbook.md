@@ -20,6 +20,7 @@ Observation:
 cat /etc/os-release
 
 <img width="601" height="179" alt="image" src="https://github.com/user-attachments/assets/ccb993e4-683b-461f-8664-5c8a3a6d791e" />
+
 observation:
 ubuntu 24.04.3 LTS
 
